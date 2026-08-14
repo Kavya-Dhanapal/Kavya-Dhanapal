@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=55&duration=2500&pause=100000&color=8E2DE2&center=true&vCenter=true&width=500&height=90&lines=Kavya+Dhanapal" alt="Name Animation" width="70%" />
+  <img src="https://raw.githubusercontent.com/Kavya-Dhanapal/Kavya-Dhanapal/main/Kavya_name.gif" alt="Name Animation" width="70%" />
 </p>
 
 <h2 align="center">Hi, I'm Kavya 👋</h2>
