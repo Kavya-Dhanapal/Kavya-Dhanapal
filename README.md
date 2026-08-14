@@ -70,7 +70,7 @@ A web-based platform to help people report and manage disaster-related emergenci
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavya-Dhanapal&theme=dark&hide_border=true&background=0D1117&ring=8E2DE2&fire=2575FC" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavya-Dhanapal&theme=dark&hide_border=true&background=0D1117&ring=8E2DE2&fire=2575FC&timezone=Asia/Kolkata" width="70%" />
 </p>
 
 <p align="center">
